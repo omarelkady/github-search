@@ -1,0 +1,14 @@
+.Welcome{
+    font-size: 50px;
+    padding: 8%;
+}
+.welcomeBtn{
+        font-size: 40px;
+        border: 2px solid grey;
+        border-radius: 10px;
+        padding: 8px;
+        background-color: darkblue;
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+    }
