@@ -64,7 +64,6 @@ class Home extends Component {
       .then((result) => {
         var data = result.data.items
         this.setState({ repos: data })
-        console.log("data", this.state.repos)
       })
   }
 

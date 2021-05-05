@@ -5,10 +5,6 @@ import DataTable from 'react-data-table-component';
 
 class Favourites extends Component {
 
-  constructor(props){
-    super();
-  }
-
   columns = [
     {
       name: 'Avatar',
